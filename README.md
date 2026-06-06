@@ -14,11 +14,12 @@ Um módulo otimizado para **Tampermonkey** que injeta uma galeria de respostas r
 ---
 
 ## Demonstração
-<img width="848" height="636" alt="Demonstração" src="https://github.com/user-attachments/assets/3234f684-0c4a-436a-b7c6-fbc4388496b3" />
+
+<img width="1918" height="866" alt="Gravando2026-06-05232213-ezgif com-optimize" src="https://github.com/user-attachments/assets/cd3c3274-eb27-469c-928d-caa4bb255f25"/>
 
 ---
 
-## ✨ Destaques e Arquitetura
+## Destaques e Arquitetura
 
 O projeto foi desenvolvido utilizando JavaScript, sem dependências externas, priorizando performance e manutenção:
 
@@ -51,4 +52,4 @@ Lógica principal:
 
 ---
 
-Toda contribuição para melhorar a interface ou a performance do injetor é muito bem-vinda!
+Toda contribuição para melhorar a interface ou a performance do injetor é muito bem-vinda! 🫶
